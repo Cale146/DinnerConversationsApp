@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application name shown on the launcher and in the app bar -->
+    <string name="app_name">Dinner Conversation</string>
+
+    <!-- Category labels -->
+    <string name="kids_category">Kids</string>
+    <string name="romantic_category">Romantic</string>
+    <string name="party_category">Party</string>
+
+    <!-- Screen titles -->
+    <string name="title_questions">Questions</string>
+
+    <!-- Prompt on main screen -->
+    <string name="category_prompt">Choose a category</string>
+</resources>
