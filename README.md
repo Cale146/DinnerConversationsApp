@@ -8,7 +8,7 @@ Features
 
 • Simple, clean, and intuitive interface
 
-• Works completely offline — no ads, no tracking
+• Works completely offline - no ads, no tracking
 
 How to Run the App
 
@@ -27,4 +27,4 @@ Requirements
 
 License
 
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the MIT License: see the LICENSE file for details.
