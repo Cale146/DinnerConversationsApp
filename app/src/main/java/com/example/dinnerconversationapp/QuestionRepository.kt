@@ -87,7 +87,12 @@ object QuestionRepository {
         "Which small gestures make you feel the most cared for?",
         "What have you learned from me without me ever teaching it directly?",
         "What’s a song lyric that reminds you of us?",
-        "If we wrote a book together, what would its title be?"
+        "If we wrote a book together, what would its title be?",
+        "What would you tell a complete stranger about me?",
+        "What was the exact moment you realized you had feelings for me?",
+        "If we could teleport anywhere in the world for a date right now, where would we go?",
+        "What is one small thing I do that always makes you smile?",
+        "What is your favorite memory of us from the first month we started dating?"
     )
 
     /**
